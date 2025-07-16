@@ -1,3 +1,6 @@
 /venv
 /__pycache__
 .python-version
+Cnn14_16k.pth
+*.npy
+.csv
